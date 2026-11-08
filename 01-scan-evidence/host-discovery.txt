@@ -1,0 +1,7 @@
+# Nmap 7.993 scan initiated Sun Nov  8 18:30:38 2026 as: nmap -sn -oN host-discovery.txt 172.20.10.0/28
+Nmap scan report for 172.20.10.1
+Host is up (0.0065s latency).
+MAC Address: DA:1C:79:4F:35:64 (Unknown)
+Nmap scan report for 172.20.10.5
+Host is up.
+# Nmap done at Sun Nov  8 18:30:41 2026 -- 16 IP addresses (2 hosts up) scanned in 3.84 seconds
